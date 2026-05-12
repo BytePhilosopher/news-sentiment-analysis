@@ -1,0 +1,17 @@
+name: news-sentiment-analysis
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - numpy
+  - pandas
+  - scikit-learn
+  - nltk
+  - matplotlib
+  - seaborn
+  - jupyter
+  - pip
+  - pip:
+      - requests
+      - beautifulsoup4
+      - wordcloud
