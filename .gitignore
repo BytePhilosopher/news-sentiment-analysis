@@ -15,6 +15,6 @@ __pycache__/
 .DS_Store
 
 # Data files (optional)
-# data/raw/*.csv
-# Data/raw/*.csv
-# data/raw/*.csv
+data/raw/*.csv
+Data/raw/*.csv
+data/raw/*.csv
